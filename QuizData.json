@@ -1,0 +1,374 @@
+{
+	"questions": [
+		{
+			"level": "1",
+			"id": "0",
+			"question": "Sort from highest to lowest.",
+			"answers": ["24", "459", "329", "&#8730;100"],
+			"correctOrder": [["459", "329", "24", "&#8730;100"]]
+		},
+		{
+			"level": "1",
+			"id": "1",
+			"question": "Sort from lowest to highest.",
+			"answers": ["10", "12", "2", "&#8731;27", "0", "-100"],
+			"correctOrder": [["-100", "0", "2", "&#8731;27", "10", "12"]]
+		},
+		{
+			"level": "1",
+			"id": "2",
+			"question": "Which number(s) is odd ?",
+			"answers": ["10", "12", "9", "45", "100", "42", "0"],
+			"correctOrder": [
+				["9", "45"],
+				["45", "9"]
+			]
+		},
+		{
+			"level": "1",
+			"id": "3",
+			"question": "Which numbers(s) are even ?",
+			"answers": ["3", "1", "2", "12", "5", "100", "11"],
+			"correctOrder": [
+				["2", "100", "12"],
+				["2", "12", "100"],
+				["100", "2", "12"],
+				["100", "12", "2"],
+				["12", "100", "2"],
+				["12", "2", "100"]
+			]
+		},
+		{
+			"level": "1",
+			"id": "4",
+			"question": "Sort from up to down part of body ?",
+			"answers": ["Bottom", "Belly", "Head", "Chest", "Feet", "Knees"],
+			"correctOrder": [["Head", "Chest", "Belly", "Bottom", "Knees", "Feet"]]
+		},
+		{
+			"level": "1",
+			"id": "5",
+			"question": "Who from this people is not from Slovakia ?",
+			"answers": ["Petra Vlhova", "Joe Biden", "Mathew Perry"],
+			"correctOrder": [
+				["Joe Biden", "Mathew Perry"],
+				["Mathew Perry", "Joe Biden"]
+			]
+		},
+		{
+			"level": "1",
+			"question": "How many wheels does car have ?",
+			"id": "6",
+			"answers": ["1", "2", "3", "4"],
+			"correctOrder": [["4"]]
+		},
+		{
+			"level": "1",
+			"question": "How many wheels does motorcycle have ?",
+			"id": "7",
+			"answers": ["1", "2", "3", "4"],
+			"correctOrder": [["2"]]
+		},
+		{
+			"level": "1",
+			"question": "Who has always right ?",
+			"id": "8",
+			"answers": ["Woman", "Man"],
+			"correctOrder": [["Woman"]]
+		},
+		{
+			"level": "1",
+			"id": "9",
+			"question": "Who is profesional cyclist ?",
+			"answers": ["Peter Sagan", "Cristiano Ronaldo", "Lebron James"],
+			"correctOrder": [["Peter Sagan"]]
+		},
+		{
+			"level": "2",
+			"id": "10",
+			"question": "How many Bytes has one Megabyte ?",
+			"answers": ["1 000 000", "10 000", "1", "0"],
+			"correctOrder": [["1 000 000"]]
+		},
+		{
+			"level": "2",
+			"id": "11",
+			"question": "Where we can will find CPU ?",
+			"answers": ["PC", "Flowerpot", "Tree", "Dog"],
+			"correctOrder": [["PC"]]
+		},
+		{
+			"level": "2",
+			"id": "12",
+			"question": "Is FEI STU good school ?",
+			"answers": ["Yes", "No"],
+			"correctOrder": [["Yes"]]
+		},
+		{
+			"level": "2",
+			"id": "13",
+			"question": "What is JavaScript used for ?",
+			"answers": ["Web Development", "Skiing", "Cooking"],
+			"correctOrder": [["Web Development"]]
+		},
+		{
+			"level": "2",
+			"id": "14",
+			"question": "What are basic the basic colors ?",
+			"answers": ["Blue", "White", "Green", "Brown", "Red", "Orange"],
+			"correctOrder": [
+				["Blue", "Red", "Green"],
+				["Blue", "Green", "Red"],
+				["Red", "Green", "Blue"],
+				["Red", "Blue", "Green"],
+				["Green", "Blue", "Red"],
+				["Green", "Red", "Blue"]
+			]
+		},
+		{
+			"level": "2",
+			"id": "15",
+			"question": "Where is situated STU ?",
+			"answers": ["Zilina", "NewYork", "Bratislava"],
+			"correctOrder": [["Bratislava"]]
+		},
+		{
+			"level": "2",
+			"id": "16",
+			"question": "Sort these people by their age. Descending.",
+			"answers": ["Leonardo DiCaprio", "Billie Eilish", "Morgan Freeman"],
+			"correctOrder": [["Morgan Freeman", "Leonardo DiCaprio", "Billie Eilish"]]
+		},
+		{
+			"level": "2",
+			"id": "17",
+			"question": "When Slovakia became independent ?",
+			"answers": ["1992", "1993", "2000", "2001"],
+			"correctOrder": [["1993"]]
+		},
+		{
+			"level": "2",
+			"id": "18",
+			"question": "Which sport is not played with ball ?",
+			"answers": ["Football", "Basketball", "Volleyball", "Tennis", "Chess"],
+			"correctOrder": [["Chess"]]
+		},
+		{
+			"level": "2",
+			"id": "19",
+			"question": "In which city were the 1992 Summer Olympics held ?",
+			"answers": ["Atlanta", "Barcelona", "Sydney", "Seoul"],
+			"correctOrder": [["Barcelona"]]
+		},
+		{
+			"level": "3",
+			"id": "20",
+			"question": "What city does Beatles come from ?",
+			"answers": ["Liverpool", "New York", "Manchester", "London"],
+			"correctOrder": [["Liverpool"]]
+		},
+		{
+			"level": "3",
+			"id": "21",
+			"question": "Sort from highest these mountains ?",
+			"answers": ["Mount Everest", "Makalu", "Lhoce", "Kangchenjunga", "K2"],
+			"correctOrder": [["Mount Everest", "K2", "Kangchenjunga", "Lhoce", "Makalu"]]
+		},
+		{
+			"level": "3",
+			"id": "22",
+			"question": "Sort from highest these buildings.",
+			"answers": ["Burj Khalifa", "Shangai Tower", "Makkah Royal Clock Tower", "Lotte World Tower"],
+			"correctOrder": [["Burj Khalifa", "Shangai Tower", "Makkah Royal Clock Tower", "Lotte World Tower"]]
+		},
+		{
+			"level": "3",
+			"id": "23",
+			"question": "Which game is the oldest ?",
+			"answers": ["Super Mario", "The Need for Speed", "Prince of Persia", "Crash Bandicoot"],
+			"correctOrder": [["Super Mario"]]
+		},
+		{
+			"level": "3",
+			"id": "24",
+			"question": "How many Lord of the Rings films are there ?",
+			"answers": ["1", "2", "3", "4"],
+			"correctOrder": [["3"]]
+		},
+		{
+			"level": "3",
+			"id": "25",
+			"question": "Sort these bones in human body from  the longest.",
+			"answers": ["Thigh-bone", "Elbow bone", "Collar bone"],
+			"correctOrder": [["Thigh-bone", "Elbow bone", "Collar bone"]]
+		},
+		{
+			"level": "3",
+			"id": "26",
+			"question": "What is the term used to describe pasta that is “firm to the bite?”",
+			"answers": ["Squishy", "Al Dente", "Fin Firm", "La Stronga"],
+			"correctOrder": [["Al Dente"]]
+		},
+		{
+			"level": "3",
+			"id": "27",
+			"question": "Which animal can be seen on the Porsche logo ?",
+			"answers": ["Jaugar", "Horse", "Bull", "Cobra"],
+			"correctOrder": [["Horse"]]
+		},
+		{
+			"level": "3",
+			"id": "28",
+			"question": "Which infinity stone was located on Vormir ?",
+			"answers": ["The Space Stone", "The Reality Stone", "Time Stone"],
+			"correctOrder": [["Soul Stone"]]
+		},
+		{
+			"level": "3",
+			"id": "29",
+			"question": "Which artist painted the ceiling of the Sistine Chapel in Rome ?",
+			"answers": ["van Gogh", "Picasso", "Michelangelo"],
+			"correctOrder": [["Michelangelo"]]
+		},
+		{
+			"level": "4",
+			"id": "30",
+			"question": "Which country invented tea ?",
+			"answers": ["China", "Russia", "India"],
+			"correctOrder": [["China"]]
+		},
+		{
+			"level": "4",
+			"id": "31",
+			"question": "In what year was the first-ever Wimbledon Championship held ?",
+			"answers": ["1977", "1882", "1877"],
+			"correctOrder": [["1877"]]
+		},
+		{
+			"level": "4",
+			"id": "32",
+			"question": "How many films did Sean Connery play James Bond in ?",
+			"answers": ["0", "7", "6", "2"],
+			"correctOrder": [["7"]]
+		},
+		{
+			"level": "4",
+			"id": "33",
+			"question": "In baking recipes, what is usually the first step ?",
+			"answers": ["Crack eggs", "Preheat the oven", "Put everything on the counter"],
+			"correctOrder": [["Preheat the oven"]]
+		},
+		{
+			"level": "4",
+			"id": "34",
+			"question": "Apple, HP, and Microsoft were all started in what sort of building ?",
+			"answers": ["Garage", "Metro", "School", "Skycraper", "Flat"],
+			"correctOrder": [["Garage"]]
+		},
+		{
+			"level": "4",
+			"id": "35",
+			"question": "Facebook was created by ?",
+			"answers": ["Joe Biden", "Bill Gates", "Mark Zuckerberg"],
+			"correctOrder": [["Mark Zuckerberg"]]
+		},
+		{
+			"level": "4",
+			"id": "36",
+			"question": "Presto is the layout engine for which browser ?",
+			"answers": ["Opera", "Firefox", "Chrome"],
+			"correctOrder": [["Opera"]]
+		},
+		{
+			"level": "4",
+			"id": "37",
+			"question": "Sort from the biggest.",
+			"answers": ["Vatican", "NewYork", "Washington", "Zilina", "Bratislava"],
+			"correctOrder": [["NewYork", "Washington", "Bratislava", "Zilina", "Vatican"]]
+		},
+		{
+			"level": "4",
+			"id": "38",
+			"question": "Sort descending the most streamed songs.",
+			"answers": ["Shape of You", "Dance Monkey", "Bad Guy", "Rockastar"],
+			"correctOrder": [["Shape of You", "Dance Monkey", "Rockastar", "Bad Guy"]]
+		},
+		{
+			"level": "4",
+			"id": "39",
+			"question": "Some months have 31 days, others have 30 days, but how many have 28 days? (only one correct)",
+			"answers": ["January", "February", "December", "All of them"],
+			"correctOrder": [["All of them"]]
+		},
+		{
+			"level": "5",
+			"id": "40",
+			"question": "When was Netflix founded ?",
+			"answers": ["1997", "2001", "2009", "2015"],
+			"correctOrder": [["1997"]]
+		},
+		{
+			"level": "5",
+			"id": "41",
+			"question": "Where we can find Dactylion ?",
+			"answers": ["Human Body", "Book", "Kitchen", "Car"],
+			"correctOrder": [["Human Body"]]
+		},
+		{
+			"level": "5",
+			"id": "42",
+			"question": "What is NOT type of stars ?",
+			"answers": ["Red Giant", "White Dwarf", "Neutron", "Supergiant", "Irregular"],
+			"correctOrder": [["Irregular"]]
+		},
+		{
+			"level": "5",
+			"id": "43",
+			"question": "Which of these snakes is NOT venomous.",
+			"answers": ["Bekaed sea snake", "Mainland Tiger Snake", "Milk Snake"],
+			"correctOrder": [["Milk Snake"]]
+		},
+		{
+			"level": "5",
+			"id": "44",
+			"question": "Sort ascending countries by number of people.",
+			"answers": ["China", "Belgium", "France", "Slovakia", "Cuba"],
+			"correctOrder": [["Slovakia", "Cuba", "Belgium", "France", "China"]]
+		},
+		{
+			"level": "5",
+			"id": "45",
+			"question": "Sort descending sizes.",
+			"answers": ["3 000 000 Bytes", "3 Terabytes", "30 Megabytes"],
+			"correctOrder": [["3 Terabytes", "30 Megabytes", "3 000 000 Bytes"]]
+		},
+		{
+			"level": "5",
+			"id": "46",
+			"question": "What is the world’s fastest species of bird?",
+			"answers": ["Peregrine falcon", "Golden eagle", "Penguin", "Frigatebird"],
+			"correctOrder": [["Peregrine falcon"]]
+		},
+		{
+			"level": "5",
+			"id": "47",
+			"question": "Sort F1 champions by number of titles.",
+			"answers": ["SCHUMACHER Michael", "FANGIO Juan Manuel", "VETTEL Sebastian", "RUSSEL George"],
+			"correctOrder": [["SCHUMACHER Michael", "FANGIO Juan Manuel", "VETTEL Sebastian", "RUSSEL George"]]
+		},
+		{
+			"level": "5",
+			"id": "48",
+			"question": "What is DRS in Formula 1 ?",
+			"answers": ["Drag Reduction System", "Draw Rally Sun", "Dream run sleep"],
+			"correctOrder": [["Drag Reduction System"]]
+		},
+		{
+			"level": "5",
+			"id": "49",
+			"question": "How many green jerseys has Peter Sagan won ?",
+			"answers": ["0", "1", "2", "3", "7", "8"],
+			"correctOrder": [["7"]]
+		}
+	]
+}
